@@ -29,7 +29,7 @@ pnpm install
 Open a terminal and change into the backend subdirectory:
 
 ```bash
-cd chatbot-example/backend
+cd chatbot-example-main/backend
 ```
 
 Now set required environment variables.
@@ -59,7 +59,7 @@ pnpm run dev
 Open a terminal and change to the frontend subdirectory:
 
 ```bash
-cd chatbot-example/frontend
+cd chatbot-example-main/murafrontend
 ```
 
 Run the frontend in dev mode:
